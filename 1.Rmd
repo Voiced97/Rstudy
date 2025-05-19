@@ -1,0 +1,17 @@
+---
+title: '1'
+output: html_document
+date: "2025-05-19"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+1 + 45
+243 * 434
+
+print(yes, OK)
+```
+
