@@ -12,6 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 1 + 45
 243 * 434
 
-print(yes, OK)
+print(yes, OK，no？)
+##dsds
+大街上看电视
+sdsds
 ```
 
